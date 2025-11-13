@@ -12,8 +12,8 @@ To write a C Program to find area of rectangle using pointer.
 
 ## PROGRAM
 ```
-NAME: CH.V.S.DINESH KUMAR
-REG NO:212224040055
+NAME: Mohan raj s
+REG NO:212224100036
 ```
 ```C
 #include<stdio.h>
